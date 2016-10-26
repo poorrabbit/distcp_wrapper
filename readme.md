@@ -21,7 +21,7 @@ How to change that should be fairly obvious.
 
 If you are NOT using this script on an environment that is using regulated
 resource pools, then the name of the resource pool can be anything, though
-if would be wise to consistent in your usage. If you ARE using regulated resource
+if would be wise to be consistent in your usage. If you ARE using regulated resource
 pools, then the resource pool specified must be one on which the user calling the
 script has job submission permissions.
 
