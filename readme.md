@@ -27,6 +27,7 @@ script has job submission permissions.
 
 It may work on other distributions. 
 It may work on other versions.
+
 As this is developed against CDH 5.4.7, there are no guarantees of either.
 
 All arguments are required.
